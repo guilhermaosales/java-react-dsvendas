@@ -9,7 +9,7 @@ function App() {
     <>
       <NavBar />
       <div className="container">
-        <h1 className="text-primary py-3">Selling Dashboard</h1>
+        <h1 className="text-primary py-3">Sales Dashboard</h1>
         <div className="row px-3">
           <div className="col-sm-6">
             <h5 className="text-center text-secondary">Success percentage %</h5>
@@ -22,7 +22,7 @@ function App() {
         </div>
 
         <div className="py-3">
-          <h2 className="text-primary">All selling</h2>
+          <h2 className="text-primary">All sales</h2>
         </div>
         <DataTable />
       </div>
