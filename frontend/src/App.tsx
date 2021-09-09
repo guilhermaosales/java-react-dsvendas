@@ -16,7 +16,7 @@ function App() {
             <BarChart />
           </div>
           <div className="col-sm-6">
-            <h5 className="text-center text-secondary">Success percentage %</h5>
+            <h5 className="text-center text-secondary">Profit share</h5>
             <DonutChart />
           </div>
         </div>
